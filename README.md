@@ -1,3 +1,5 @@
+<span style="background-color: rgb(245, 235, 171); padding: 3px 5px; border-radius: 3px;">⚠️ This app supports indexes created with older models, such as Marengo 2.6 and Pegasus 1.1, using Twelve LabsAPI version 1.2. For indexes built with the latest models—Marengo 2.7 and Pegasus 1.2, please refer to [Crop-Seek](https://github.com/mrnkim/crop-seek).</span>
+
 ## 👋 Introduction
 
 Crop and Seek demonstrates the power of advanced video search capabilities using the Twelve Labs API. By implementing both text and image-based search, along with the unique image cropping feature, this application provides a flexible and powerful tool for discovering relevant video content.
